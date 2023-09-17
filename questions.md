@@ -19,3 +19,18 @@ What is text-shadow css prop? How to read it?
 How should you add CSS rules in stylesheet when they address another state of the element like hover (LVHA)? Why?
 
 8:55 - 9:30
+
+Why are we using postion: relative on a button?
+12:35 
+
+What is the difference between em and rem units?
+13:00 - 13:11
+
+What does the following CSS property mean in plain english: 
+
+box-shadow: -6px 6px 0 hsl(16, 100%, 30%);
+
+
+What is outline CSS prop?
+
+How do we connect the button to its box-shadow to make a 3d button?
