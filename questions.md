@@ -16,4 +16,6 @@ How to read the values within a box-shadow css prop?
 What is text-shadow css prop? How to read it?
 8:26 
 
+How should you add CSS rules in stylesheet when they address another state of the element like hover (LVHA)? Why?
 
+8:55 - 9:30
