@@ -33,4 +33,49 @@ box-shadow: -6px 6px 0 hsl(16, 100%, 30%);
 
 What is outline CSS prop?
 
+How do we use top and left in CSS? 
+
+We have a parent element (even same element) that has position: relative set on it. This sets the element somewhere in document flow and now we can use CSS props to move the element relative from the parent element's position like top, left, bottom, and right. 
+
+14:30 - 14: 45
+
+
+Explain the significant CSS properties within the following code below as simply as possible. What is it trying to achieve? :
+
+.btn-3d-1 {
+    position: relative;
+    background: orangered;
+    border: none;
+    color: white;
+    padding: 15px 24px;
+    font-size: 1.4rem;
+    box-shadow: -6px 6px 0 hsl(16, 100%, 30%);
+    outline: none;
+}
+
+    .btn-3d-1:hover {
+        background: hsl(16, 100%, 45%);
+    }
+
+    .btn-3d-1:active {
+        background: hsl(16, 100%, 40%);
+        top: 3px;
+        left: -3px;
+        box-shadow: -3px 3px 0 hsl(16, 100%, 30%);
+    }
+
 How do we connect the button to its box-shadow to make a 3d button?
+18:00 - 18:15;
+
+We need to make a shape to connect the box-shadow and button on forefront. In this case, a triangle. We can do this by making a absolutely positioned border with no width or height with a border that is transparent on all 4 sides with a size but only on one side have a solid with size and a color to make a shape then move it. 
+
+What is ::before CSS prop? 
+16:10 - 16:25
+
+Why do we need to use content css prop for psuedo elements ::before and ::after?
+16:32 - 16:40
+
+Why do we use border-left-width: 0 or border-bottom-width: 0? 
+18:30 - 18:50
+20:30 - 22:20
+
