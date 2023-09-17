@@ -1,1 +1,3 @@
-Changes: Adding HTML within index.html and leaving styles empty for now
+Changes: 
+
+Add border, background, text-shadow, properties to FB-style-dark in addition to the box-shadow prop for chrome and mozilla
