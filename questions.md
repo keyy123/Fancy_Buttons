@@ -93,3 +93,13 @@ How to stack multiple box-shadows on a single element?
 
 When we click the button with top: 2px in active state why does it go down?
 33:50 - 34:55
+
+How to add a gradient to a border in CSS?
+37:30 - 38:30
+
+How to fix the gradients so they are not on the corners of the border? What does border-image-slice does? 
+38:30 - 39:20
+
+How to use transition in CSS?
+39:35 - 39:55
+
