@@ -111,4 +111,28 @@
             bottom: -2px;
         }
 
-        
+
+/*
+3D BUTTON 2
+*/
+
+.btn-3d-2 {
+    position: relative;
+
+    background: #ecd300;
+    background: --webkit-radial-gradient(hsl(54, 100%, 50), hsl(54, 100%, 40%));
+    background: --o-radial-gradient(hsl(54, 100%, 50), hsl(54, 100%, 40%)); 
+    background: --moz-radial-gradient(hsl(54, 100%, 50), hsl(54, 100%, 40%));
+    background: radial-gradient(hsl(54, 100%, 50), hsl(54, 100%, 40%));
+
+    font-size: 1.4rem;
+    text-shadow: 0 -1px 0 #c3af07;
+    color: white;
+    border: 1px solid hsl(54, 100%, 20%);
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+    outline: none;
+    /* Why use z-index here? */
+    z-index: 4;
+}
