@@ -79,3 +79,9 @@ Why do we use border-left-width: 0 or border-bottom-width: 0?
 18:30 - 18:50
 20:30 - 22:20
 
+How to style the psuedo element of a state of an element in CSS? (example: div:active::before/after)?
+
+23:20
+
+HOw do we fix the triangles in the active state?
+23:30 - 24:20
