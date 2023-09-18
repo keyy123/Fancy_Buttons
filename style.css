@@ -135,4 +135,14 @@
     outline: none;
     /* Why use z-index here? */
     z-index: 4;
+
+    box-shadow: inset 0 1px 0 hsl(54, 100%, 50%),
+    0 2px 0 hsl(54, 100%, 20%),
+    0 3px 0 hsl(54, 100%, 18%),
+    0 4px 0 hsl(54, 100%, 16%),
+    0 5px 0 hsl(54, 100%, 14%),
+    0 6px 0 hsl(54, 100%, 12%),
+    0 7px 0 hsl(54, 100%, 10%),
+    0 8px 0 hsl(54, 100%, 8%),
+    0 9px 0 hsl(54, 100%, 6%);
 }

@@ -85,3 +85,8 @@ How to style the psuedo element of a state of an element in CSS? (example: div:a
 
 HOw do we fix the triangles in the active state?
 23:30 - 24:20
+
+Why do we use z-index? 
+
+How to stack multiple box-shadows on a single element?
+30:00 - 31:00
