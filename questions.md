@@ -103,3 +103,5 @@ How to fix the gradients so they are not on the corners of the border? What does
 How to use transition in CSS?
 39:35 - 39:55
 
+How to fill in the a button with a linear-gradient in CSS?
+40:05 - 40:38

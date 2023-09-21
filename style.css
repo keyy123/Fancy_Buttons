@@ -190,5 +190,12 @@
     border-image: linear-gradient(to top right, orangered, yellow);
     border-image-slice: 1;
     color: orangered;
-    transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease;
 }
+
+    .gradient-button-1:hover {
+        background-image: linear-gradient(to top right, orangered, yellow);
+        color: white;
+    }
+
+ /* follow kevin powell, hyperplexed, fireship */
